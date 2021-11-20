@@ -1,8 +1,8 @@
 ### Hi there 🌱
 
 I'm **web dev** && **engineer** && **enterpreneur**.  
-
-🔭 I’m currently working in **web3** building the Helium Network at [Galiot](https://www.galiot.io/), creating NFTs and other fun stuff.
+ 
+- I’m currently working in **web3** building the Helium Network as a cofounder @[Galiot](https://www.galiot.io/), creating NFTs and other fun stuff.
 
 TBC...
 
