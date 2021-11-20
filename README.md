@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 🌱
+
+I'm **web dev** && **engineer** && **enterpreneur**.  
+
+🔭 I’m currently working in **web3** building the Helium Network at [Galiot](https://www.galiot.io/), creating NFTs and other fun stuff.
+
+TBC...
 
 <!--
 **mj0lken/mj0lken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
